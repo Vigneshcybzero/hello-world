@@ -1,6 +1,9 @@
 body{
 	font-size:12px;
 }
+p{
+	padding:10px;
+}
 div{
 	font-size:14px;
 }
